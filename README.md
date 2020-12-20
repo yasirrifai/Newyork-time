@@ -3,7 +3,7 @@ Web Application
 
 # Steps to run the Application 
 
-1. close the repository 
+1. clone the repository 
 2. npm install 
 3. npm start 
 
