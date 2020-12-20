@@ -1,6 +1,13 @@
 # Newyork-times
 Web Application 
 
+# Steps to run the Application 
+
+1. close the repository 
+2. npm install 
+3. npm start 
+
+
 # newyork-times
 
 
