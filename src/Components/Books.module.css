@@ -1,0 +1,46 @@
+
+.Books {
+
+    width: 80%;
+    margin: 20px auto;
+    border: 1px solid #eee;
+    box-shadow: 0 2px 3px #ccc;
+    text-align: center;
+}
+
+.Books:hover,
+.Books:active {
+    background-color:#eee;
+}
+
+.Image {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 300px;
+    height: 400px;
+}
+
+.View button {
+    
+    padding: 10px;
+    margin-top: 20px;
+    margin-bottom:15px ;
+    font-weight: bold;
+    cursor: pointer;
+    color: black;
+    background-color: green;
+}
+
+.View button:hover,
+.View button:active {
+    color: black;
+    background-color: chartreuse;
+}
+
+@media (min-width: 1000px) and (min-height: 700px) {
+    .Books {
+        width: 700px;
+        height: 600px;
+    }
+}
