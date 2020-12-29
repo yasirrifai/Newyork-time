@@ -14,13 +14,13 @@ Web Application
 web application to show the New York Times best-selling books list.
 **this is how the basic application looks like.**
 
-![In a single picture](https://github.com/yasirrifai/Newyork-time/blob/main/sc1.png)
+![Image](https://github.com/yasirrifai/Newyork-time/blob/main/Nyt/sc1.png)
 
 ## By scrolling down we can go throught the best selling book list.
 
 By using **hover effects** a particular book can be highlighted whis is also shown in the below by hovering a light grey color to indicate that the user has the mouse pointer over the relevant book
 
-![In a single picture](https://github.com/yasirrifai/Newyork-time/blob/main/sc2.png)
+![Image](https://github.com/yasirrifai/Newyork-time/blob/main/Nyt/sc2.png)
 
 ### Using a button beneath the image to proceed to purchase from Amazon.
 
@@ -29,7 +29,7 @@ By using **hover effects** a particular book can be highlighted whis is also sho
 *I have used a **hover effect** on the button so that it would give you a mild green color and a cursor pointer when your are above to click on the button or when you move your mouse pointer  over it*
 
 
-![In a single picture](https://github.com/yasirrifai/Newyork-time/blob/main/sc4.png)
+![Image](https://github.com/yasirrifai/Newyork-time/blob/main/Nyt/sc4.png)
 
 
 
@@ -37,5 +37,5 @@ In the button function **i have merged the URL** for the proceedings to the Amoz
 
 
 
-![In a single picture](https://github.com/yasirrifai/Newyork-time/blob/main/sc3.png)
+![Image](https://github.com/yasirrifai/Newyork-time/blob/main/Nyt/sc3.png)
 
